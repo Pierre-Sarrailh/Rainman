@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">rainmanV5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hint_weatherTex">Any comments?</string>
+    <string name="button_save">Post Weather</string>
+    <string name="tomap_Name">to map</string>
+    <string name="to_enter">make a post</string>
+    <string name="radio_rain">rainy</string>
+    <string name="radio_cloud">foggy</string>
+    <string name="radio_thunder">stormy</string>
+    <string name="radio_sun">windy</string>
+    <string name="radio_snow">snowy</string>
+    <string name="radio_flood">flooded</string>
+    <string name="radio_ice">iced</string>
+    <string name="radio_obstruction">obstructed</string>
+    <string name="radio_nothing">clear</string>
+    <string name="radio_slip">slippery</string>
+    <string name="weather_Name">Weather</string>
+    <string name="comment">any comments?</string>
+</resources>

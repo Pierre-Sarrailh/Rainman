@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857558175525",
+    "firebase_url": "https://rainmanv5.firebaseio.com",
+    "project_id": "rainmanv5",
+    "storage_bucket": "rainmanv5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857558175525:android:9d226f67f204172bb9d4cc",
+        "android_client_info": {
+          "package_name": "com.example.rainmanv5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857558175525-jgglesemfr1a00un4asthut6189qelh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmKltynJyXndn0Nh9eMMjgXLSJDFTgcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857558175525-jgglesemfr1a00un4asthut6189qelh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
